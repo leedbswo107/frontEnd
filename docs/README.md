@@ -1,5 +1,7 @@
 # Commit convention
+
 ## 자주 사용하는 태그 종류
+
     feat : 새로운 기능을 추가하는 경우
     fix : 버그를 고친경우
     docs : 문서를 수정한 경우
