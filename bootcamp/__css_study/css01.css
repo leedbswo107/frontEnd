@@ -1,0 +1,14 @@
+body > * {
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+}
+/* 
+body > * {} 
+직계 자식 모두를 선택
+
+=> header, main, footer 
+그 안의 h1, h2, p 는 적용되지 않음
+*/
+
+
